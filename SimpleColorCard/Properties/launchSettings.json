@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SimpleColorCard (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SimpleColorCard (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
